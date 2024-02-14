@@ -8,7 +8,7 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="4"/>
+  <LastIsn val="9"/>
 
   <LastIsnFolder val="0"/>
 
@@ -18,9 +18,12 @@
  <DataSourceRepository>
   <DataObjects>
  
-<DataObject PhysicalName="data1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="data1" offset="228" length="2680"/> 
-<DataObject PhysicalName="data1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="data2" offset="2909" length="2680"/> 
-<DataObject PhysicalName="data1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" name="data3" offset="5590" length="2680"/> 
-<DataObject PhysicalName="data1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="2" name="data4" offset="8271" length="2680"/>  </DataObjects>
+<DataObject PhysicalName="data1" Resident="N" UniqueISNConvState="12" data_source="mssql" id="1" name="data1" offset="228" length="2669"/> 
+<DataObject PhysicalName="data2" Resident="N" UniqueISNConvState="12" data_source="mssql" id="3" name="data2" offset="2898" length="2669"/> 
+<DataObject PhysicalName="data3" Resident="N" UniqueISNConvState="12" data_source="mssql" id="4" name="data3" offset="5568" length="2669"/> 
+<DataObject PhysicalName="data4" Resident="N" UniqueISNConvState="12" data_source="mssql" id="2" name="data4" offset="8238" length="2669"/> 
+<DataObject PhysicalName="data5" Resident="N" UniqueISNConvState="12" data_source="mssql" id="7" name="data5" offset="10908" length="2669"/> 
+<DataObject PhysicalName="data6" Resident="N" UniqueISNConvState="12" data_source="mssql" id="8" name="data6" offset="13578" length="2669"/> 
+<DataObject PhysicalName="data7" Resident="N" UniqueISNConvState="12" data_source="mssql" id="9" name="data7" offset="16248" length="3207"/>  </DataObjects>
  </DataSourceRepository>
- <LastModified val="31088397-56473724"/>  </Application>
+ <LastModified val="31088401-189118477"/>  </Application>

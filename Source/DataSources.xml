@@ -22,7 +22,7 @@
 
   <Encrypt val="N"/>
 
-  <Cache val="D"/>
+  <Cache val="N"/>
 
   <IdentifyRowModifications val="U"/>
 
@@ -301,7 +301,7 @@
 
   <Encrypt val="N"/>
 
-  <Cache val="D"/>
+  <Cache val="N"/>
 
   <IdentifyRowModifications val="U"/>
 
